@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+}
+
+html,body{
+  height: 100%;
+  width: 100%;
+  background-color: #242424;
+}
+
+input,button{
+  padding: 15px 20px;
+  margin: 10px;
+  border-radius: 5px;
+  color: rgb(44, 40, 40);
+  background-color: beige;
+  font-size: medium;
+  font-weight: 700;
+}
